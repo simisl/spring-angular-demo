@@ -50,5 +50,5 @@ jobs:
         with:
           app-name: 'spring-angular-demo'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_5e21dd4ec24f49c486e437b48f55b723 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_a191869251614884a09858a4ef796295 }}
           package: '*.jar'
